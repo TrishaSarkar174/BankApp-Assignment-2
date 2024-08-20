@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string name="bank_name">Agrani Bank</string>
+    <string name="display_account">Display Accounts</string>
+    <string name="default_text">No Option Selected</string>
+    <string-array name="accountType">
+        <item>Current Account</item>
+        <item>Savings Account</item>
+        <item>Fix Deposit Account</item>
+        <item>Salary Account</item>
+    </string-array>
+
+</resources>
